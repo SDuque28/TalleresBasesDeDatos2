@@ -25,27 +25,27 @@ public class Main {
             Class.forName("org.postgresql.Driver");
             Connection conexion = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres", "postgres","postgres");
             //Procedimiento generar auditoria 
-//            CallableStatement ejecucion1 = conexion.prepareCall("call public.generar_auditoria_2(?,?)");            
-//            ejecucion1.setDate(1, java.sql.Date.valueOf(LocalDate.of(2020, 9, 22)));
-//            ejecucion1.setDate(2, java.sql.Date.valueOf(LocalDate.of(2020, 9, 24)));
-//            ejecucion1.execute();
-//            ejecucion1.close();
+            CallableStatement ejecucion1 = conexion.prepareCall("call public.generar_auditoria_2(?,?)");            
+            ejecucion1.setDate(1, java.sql.Date.valueOf(LocalDate.of(2020, 9, 22)));
+            ejecucion1.setDate(2, java.sql.Date.valueOf(LocalDate.of(2020, 9, 24)));
+            ejecucion1.execute();
+            ejecucion1.close();
             //Procedimiento para simular ventas
-//            CallableStatement ejecucion2 = conexion.prepareCall("call public.simular_ventas_mes()"); 
-//            ejecucion2.execute();
-//            ejecucion2.close();
+            CallableStatement ejecucion2 = conexion.prepareCall("call public.simular_ventas_mes()"); 
+            ejecucion2.execute();
+            ejecucion2.close();
             //Funcion para hallar las transacciones totales en un mes para un empleado
-//            CallableStatement ejecucion3 = conexion.prepareCall("{call public.transacciones_total_mes(?,?)}"); 
-//            ejecucion3.setInt(1, 6);
-//            ejecucion3.setInt(2, 0);
-//            ResultSet resultado = ejecucion3.executeQuery();
-//            int transacciones = 0;
-//            while(resultado.next()){
-//                transacciones = resultado.getInt(1);
-//            }          
-//            System.out.println("Transacciones = " + transacciones);
-//            ejecucion3.execute();
-//            ejecucion3.close();
+            CallableStatement ejecucion3 = conexion.prepareCall("{call public.transacciones_total_mes(?,?)}"); 
+            ejecucion3.setInt(1, 6);
+            ejecucion3.setInt(2, 0);
+            ResultSet resultado = ejecucion3.executeQuery();
+            int transacciones = 0;
+            while(resultado.next()){
+                transacciones = resultado.getInt(1);
+            }          
+            System.out.println("Transacciones = " + transacciones);
+            ejecucion3.execute();
+            ejecucion3.close();
             //Funcion para hallar los servicios no pagados
             CallableStatement ejecucion4 = conexion.prepareCall("{call public.servicios_no_pagados_mes(?)}"); 
             ejecucion4.setInt(1, 6);
