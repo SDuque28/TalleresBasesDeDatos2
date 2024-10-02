@@ -34,19 +34,17 @@ public class Main {
 
             Connection conn = od.getConnection();
             CallableStatement cs = conn.prepareCall("{CALL TALLERESBD2.generar_auditoria(?,?)}");
-            // Crear las fechas correctamente
+
             java.util.Calendar calendar = java.util.Calendar.getInstance();
-            calendar.set(2024, java.util.Calendar.SEPTEMBER, 12); // Mes de septiembre
+            calendar.set(2024, java.util.Calendar.SEPTEMBER, 12); 
             Date fechaInicio = new Date(calendar.getTimeInMillis());
 
-            calendar.set(2024, java.util.Calendar.OCTOBER, 23); // Mes de octubre
+            calendar.set(2024, java.util.Calendar.OCTOBER, 23); 
             Date fechaFin = new Date(calendar.getTimeInMillis());
 
-            // Establecer los parámetros en el CallableStatement
             cs.setDate(1, fechaInicio);
             cs.setDate(2, fechaFin);
 
-            // Ejecutar el procedimiento
             cs.execute();
             cs.close();
             conn.close();
