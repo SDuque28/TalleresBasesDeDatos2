@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361b8"
+  },
+  "isbn": 1,
+  "titulo": "Don Quijote de la Mancha",
+  "autor": "Miguel de Cervantes",
+  "genero": "Acción",
+  "año": 1605
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361b9"
+  },
+  "isbn": 2,
+  "titulo": "Cien años de soledad",
+  "autor": "Gabriel García Márquez",
+  "genero": "Realismo Mágico",
+  "año": 1967
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361ba"
+  },
+  "isbn": 3,
+  "titulo": "La sombra del viento",
+  "autor": "Carlos Ruiz Zafón",
+  "genero": "Misterio",
+  "año": 2001
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361bb"
+  },
+  "isbn": 4,
+  "titulo": "Rayuela",
+  "autor": "Julio Cortázar",
+  "genero": "Ficción Experimental",
+  "año": 1963
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361bc"
+  },
+  "isbn": 5,
+  "titulo": "Pedro Páramo",
+  "autor": "Juan Rulfo",
+  "genero": "Realismo Mágico",
+  "año": 1955
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361bd"
+  },
+  "isbn": 6,
+  "titulo": "La casa de los espíritus",
+  "autor": "Isabel Allende",
+  "genero": "Realismo Mágico",
+  "año": 1982
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361be"
+  },
+  "isbn": 7,
+  "titulo": "El túnel",
+  "autor": "Ernesto Sabato",
+  "genero": "Psicológico",
+  "año": 1948
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361bf"
+  },
+  "isbn": 8,
+  "titulo": "Crónica de una muerte anunciada",
+  "autor": "Gabriel García Márquez",
+  "genero": "Policíaco",
+  "año": 1981
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361c0"
+  },
+  "isbn": 9,
+  "titulo": "Fervor de Buenos Aires",
+  "autor": "Jorge Luis Borges",
+  "genero": "Poesía",
+  "año": 1923
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361c1"
+  },
+  "isbn": 10,
+  "titulo": "La ciudad y los perros",
+  "autor": "Mario Vargas Llosa",
+  "genero": "Drama",
+  "año": 1963
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361c2"
+  },
+  "isbn": 11,
+  "titulo": "Los pasos perdidos",
+  "autor": "Alejo Carpentier",
+  "genero": "Aventura",
+  "año": 1953
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361c3"
+  },
+  "isbn": 12,
+  "titulo": "Sobre héroes y tumbas",
+  "autor": "Ernesto Sabato",
+  "genero": "Drama",
+  "año": 1961
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361c4"
+  },
+  "isbn": 13,
+  "titulo": "El amor en los tiempos del cólera",
+  "autor": "Gabriel García Márquez",
+  "genero": "Romance",
+  "año": 1985
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361c5"
+  },
+  "isbn": 14,
+  "titulo": "El Aleph",
+  "autor": "Jorge Luis Borges",
+  "genero": "Cuento",
+  "año": 1949
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361c6"
+  },
+  "isbn": 15,
+  "titulo": "La fiesta del Chivo",
+  "autor": "Mario Vargas Llosa",
+  "genero": "Histórico",
+  "año": 2000
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361c7"
+  },
+  "isbn": 16,
+  "titulo": "Travesuras de la niña mala",
+  "autor": "Mario Vargas Llosa",
+  "genero": "Romance",
+  "año": 2006
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361c8"
+  },
+  "isbn": 17,
+  "titulo": "Aura",
+  "autor": "Carlos Fuentes",
+  "genero": "Fantasía",
+  "año": 1962
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361c9"
+  },
+  "isbn": 18,
+  "titulo": "El libro de arena",
+  "autor": "Jorge Luis Borges",
+  "genero": "Fantasía",
+  "año": 1975
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361ca"
+  },
+  "isbn": 19,
+  "titulo": "Los detectives salvajes",
+  "autor": "Roberto Bolaño",
+  "genero": "Aventura",
+  "año": 1998
+},
+{
+  "_id": {
+    "$oid": "671bfd66f8db4d53ab7361cb"
+  },
+  "isbn": 20,
+  "titulo": "Como agua para chocolate",
+  "autor": "Laura Esquivel",
+  "genero": "Romance",
+  "año": 1989
+}]

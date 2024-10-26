@@ -1,0 +1,7 @@
+[
+    {"isbn": {"$gt": 5}},
+    {"$or": [{ "año": 1963}, {"titulo": "La sombra del viento" }]},
+    {"$and":[{"autor": "Carlos Ruiz Zafón", "titulo": "La sombra del viento" }]},
+    {"genero": {"$in": ["Accion", "Misterio"]}},
+    {"año": {"$lte": 1750}}
+]

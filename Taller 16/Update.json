@@ -1,0 +1,30 @@
+[ { "isbn": 1 },
+  { "$set": { "titulo": "Don Quijote Actualizado"} },
+
+  { "isbn": 2 },
+  { "$set": { "año": 1968 } },
+
+  { "isbn": 3 },
+  { "$set": { "genero": "Novela Histórica" } },
+
+  { "isbn": 4 },
+  { "$set": { "titulo": "Rayuela (Edición Extendida)" } },
+
+  { "isbn": 5 },
+  { "$set": { "autor": "Juan Nepomuceno Rulfo" } },
+
+  { "isbn": 6 },
+  { "$set": { "año": 1985 } },
+
+  { "isbn": 7 },
+  { "$set": { "genero": "Thriller Psicológico" } },
+
+  { "isbn": 8 },
+  { "$set": { "titulo": "Crónica de una muerte inesperada" } },
+
+  { "isbn": 9 },
+  { "$set": { "autor": "J. L. Borges" } },
+
+  { "isbn": 10 },
+  { "$set": { "genero": "Drama y Ficción" } }
+]
