@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6720d466543c9b1ecc71200c"
+  },
+  "AutorID": 1,
+  "Nombre": "Gabriel García Márquez",
+  "Nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "6720d466543c9b1ecc71200d"
+  },
+  "AutorID": 2,
+  "Nombre": "J.K. Rowling",
+  "Nacionalidad": "Británica"
+},
+{
+  "_id": {
+    "$oid": "6720d466543c9b1ecc71200e"
+  },
+  "AutorID": 3,
+  "Nombre": "George Orwell",
+  "Nacionalidad": "Británica"
+},
+{
+  "_id": {
+    "$oid": "6720d466543c9b1ecc71200f"
+  },
+  "AutorID": 4,
+  "Nombre": "Jane Austen",
+  "Nacionalidad": "Británica"
+},
+{
+  "_id": {
+    "$oid": "6720d466543c9b1ecc712010"
+  },
+  "AutorID": 5,
+  "Nombre": "Harper Lee",
+  "Nacionalidad": "Estadounidense"
+}]

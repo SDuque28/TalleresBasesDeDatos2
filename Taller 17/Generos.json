@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "6720d4af543c9b1ecc712013"
+  },
+  "GéneroID": 1,
+  "NombreGénero": "Novela"
+},
+{
+  "_id": {
+    "$oid": "6720d4af543c9b1ecc712014"
+  },
+  "GéneroID": 2,
+  "NombreGénero": "Fantasía"
+},
+{
+  "_id": {
+    "$oid": "6720d4af543c9b1ecc712015"
+  },
+  "GéneroID": 3,
+  "NombreGénero": "Ciencia Ficción"
+},
+{
+  "_id": {
+    "$oid": "6720d4af543c9b1ecc712016"
+  },
+  "GéneroID": 4,
+  "NombreGénero": "Romance"
+},
+{
+  "_id": {
+    "$oid": "6720d4af543c9b1ecc712017"
+  },
+  "GéneroID": 5,
+  "NombreGénero": "Drama"
+},
+{
+  "_id": {
+    "$oid": "6720d565543c9b1ecc712019"
+  },
+  "ISBN": 1,
+  "Título": "Cien Años de Soledad",
+  "AutorID": 1,
+  "GéneroID": 1
+},
+{
+  "_id": {
+    "$oid": "6720d565543c9b1ecc71201a"
+  },
+  "ISBN": 2,
+  "Título": "Harry Potter y la Piedra Filosofal",
+  "AutorID": 2,
+  "GéneroID": 2
+},
+{
+  "_id": {
+    "$oid": "6720d565543c9b1ecc71201b"
+  },
+  "ISBN": 3,
+  "Título": "1984",
+  "AutorID": 3,
+  "GéneroID": 3
+},
+{
+  "_id": {
+    "$oid": "6720d565543c9b1ecc71201c"
+  },
+  "ISBN": 4,
+  "Título": "Orgullo y Prejuicio",
+  "AutorID": 4,
+  "GéneroID": 4
+},
+{
+  "_id": {
+    "$oid": "6720d565543c9b1ecc71201d"
+  },
+  "ISBN": 5,
+  "Título": "Matar a un Ruiseñor",
+  "AutorID": 5,
+  "GéneroID": 5
+},
+{
+  "_id": {
+    "$oid": "6720d565543c9b1ecc71201e"
+  },
+  "ISBN": 6,
+  "Título": "El Otoño del Patriarca",
+  "AutorID": 1,
+  "GéneroID": 1
+},
+{
+  "_id": {
+    "$oid": "6720d565543c9b1ecc71201f"
+  },
+  "ISBN": 7,
+  "Título": "Harry Potter y las Reliquias de la Muerte",
+  "AutorID": 2,
+  "GéneroID": 2
+},
+{
+  "_id": {
+    "$oid": "6720d565543c9b1ecc712020"
+  },
+  "ISBN": 8,
+  "Título": "Rebelión en la Granja",
+  "AutorID": 3,
+  "GéneroID": 3
+},
+{
+  "_id": {
+    "$oid": "6720d565543c9b1ecc712021"
+  },
+  "ISBN": 9,
+  "Título": "Emma",
+  "AutorID": 4,
+  "GéneroID": 4
+},
+{
+  "_id": {
+    "$oid": "6720d565543c9b1ecc712022"
+  },
+  "ISBN": 10,
+  "Título": "Ve y Pon un Centinela",
+  "AutorID": 5,
+  "GéneroID": 5
+}]

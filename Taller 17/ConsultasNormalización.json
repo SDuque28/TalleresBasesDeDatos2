@@ -1,0 +1,18 @@
+[
+    {"ISBN":1},
+    {
+        "$lookup": {
+            "from": "autores", 
+            "localField": "AutorID", 
+            "foreignField": "AutorID", 
+            "as": "Autor"
+        }
+    }, {
+        "$lookup": {
+            "from": "generos", 
+            "localField": "GéneroID", 
+            "foreignField": "GéneroID", 
+            "as": "Genero"
+        }
+    }
+]

@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6720d708543c9b1ecc712038"
+  },
+  "ISBN": 1,
+  "Título": "Cien Años de Soledad",
+  "AutorID": 1,
+  "GéneroID": 1
+},
+{
+  "_id": {
+    "$oid": "6720d708543c9b1ecc712039"
+  },
+  "ISBN": 2,
+  "Título": "Harry Potter y la Piedra Filosofal",
+  "AutorID": 2,
+  "GéneroID": 2
+},
+{
+  "_id": {
+    "$oid": "6720d708543c9b1ecc71203a"
+  },
+  "ISBN": 3,
+  "Título": "1984",
+  "AutorID": 3,
+  "GéneroID": 3
+},
+{
+  "_id": {
+    "$oid": "6720d708543c9b1ecc71203b"
+  },
+  "ISBN": 4,
+  "Título": "Orgullo y Prejuicio",
+  "AutorID": 4,
+  "GéneroID": 4
+},
+{
+  "_id": {
+    "$oid": "6720d708543c9b1ecc71203c"
+  },
+  "ISBN": 5,
+  "Título": "Matar a un Ruiseñor",
+  "AutorID": 5,
+  "GéneroID": 5
+},
+{
+  "_id": {
+    "$oid": "6720d708543c9b1ecc71203d"
+  },
+  "ISBN": 6,
+  "Título": "El Otoño del Patriarca",
+  "AutorID": 1,
+  "GéneroID": 1
+},
+{
+  "_id": {
+    "$oid": "6720d708543c9b1ecc71203e"
+  },
+  "ISBN": 7,
+  "Título": "Harry Potter y las Reliquias de la Muerte",
+  "AutorID": 2,
+  "GéneroID": 2
+},
+{
+  "_id": {
+    "$oid": "6720d708543c9b1ecc71203f"
+  },
+  "ISBN": 8,
+  "Título": "Rebelión en la Granja",
+  "AutorID": 3,
+  "GéneroID": 3
+},
+{
+  "_id": {
+    "$oid": "6720d708543c9b1ecc712040"
+  },
+  "ISBN": 9,
+  "Título": "Emma",
+  "AutorID": 4,
+  "GéneroID": 4
+},
+{
+  "_id": {
+    "$oid": "6720d708543c9b1ecc712041"
+  },
+  "ISBN": 10,
+  "Título": "Ve y Pon un Centinela",
+  "AutorID": 5,
+  "GéneroID": 5
+}]

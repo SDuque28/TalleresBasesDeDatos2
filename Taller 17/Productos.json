@@ -1,0 +1,187 @@
+[{
+  "_id": {
+    "$oid": "6720e394543c9b1ecc712045"
+  },
+  "ProductoId": 1,
+  "Nombre": "Smartphone",
+  "Descripción": "Teléfono inteligente con 128GB de almacenamiento.",
+  "Precio": 799,
+  "Categoria": {
+    "CategoriaId": 1,
+    "NombreCategoria": "Electrónica"
+  },
+  "Comentarios": [
+    {
+      "ComentarioId": 1,
+      "Texto": "Excelente producto",
+      "Cliente": "Juan Pérez"
+    },
+    {
+      "ComentarioId": 2,
+      "Texto": "Buena relación calidad-precio",
+      "Cliente": "Ana Gómez"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720e394543c9b1ecc712046"
+  },
+  "ProductoId": 2,
+  "Nombre": "Laptop",
+  "Descripción": "Laptop con 16GB de RAM y 512GB SSD.",
+  "Precio": 1200,
+  "Categoria": {
+    "CategoriaId": 1,
+    "NombreCategoria": "Electrónica"
+  },
+  "Comentarios": [
+    {
+      "ComentarioId": 3,
+      "Texto": "Muy rápida y eficiente",
+      "Cliente": "Carlos Ruiz"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720e394543c9b1ecc712047"
+  },
+  "ProductoId": 3,
+  "Nombre": "Cafetera",
+  "Descripción": "Cafetera automática para espresso.",
+  "Precio": 150,
+  "Categoria": {
+    "CategoriaId": 2,
+    "NombreCategoria": "Hogar"
+  },
+  "Comentarios": [
+    {
+      "ComentarioId": 4,
+      "Texto": "Fácil de usar y limpia",
+      "Cliente": "Laura Martínez"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720e394543c9b1ecc712048"
+  },
+  "ProductoId": 4,
+  "Nombre": "Sofá",
+  "Descripción": "Sofá de 3 plazas en color gris.",
+  "Precio": 500,
+  "Categoria": {
+    "CategoriaId": 2,
+    "NombreCategoria": "Hogar"
+  },
+  "Comentarios": []
+},
+{
+  "_id": {
+    "$oid": "6720e394543c9b1ecc712049"
+  },
+  "ProductoId": 5,
+  "Nombre": "Audífonos",
+  "Descripción": "Audífonos inalámbricos con cancelación de ruido.",
+  "Precio": 250,
+  "Categoria": {
+    "CategoriaId": 1,
+    "NombreCategoria": "Electrónica"
+  },
+  "Comentarios": [
+    {
+      "ComentarioId": 5,
+      "Texto": "La cancelación de ruido es muy buena",
+      "Cliente": "Mariana Torres"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720e394543c9b1ecc71204a"
+  },
+  "ProductoId": 6,
+  "Nombre": "Zapatillas",
+  "Descripción": "Zapatillas deportivas de alta calidad.",
+  "Precio": 120,
+  "Categoria": {
+    "CategoriaId": 3,
+    "NombreCategoria": "Moda"
+  },
+  "Comentarios": [
+    {
+      "ComentarioId": 6,
+      "Texto": "Muy cómodas para correr",
+      "Cliente": "Sofía Delgado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720e394543c9b1ecc71204b"
+  },
+  "ProductoId": 7,
+  "Nombre": "Cámara Fotográfica",
+  "Descripción": "Cámara DSLR con lente de 24-105mm.",
+  "Precio": 1500,
+  "Categoria": {
+    "CategoriaId": 1,
+    "NombreCategoria": "Electrónica"
+  },
+  "Comentarios": []
+},
+{
+  "_id": {
+    "$oid": "6720e394543c9b1ecc71204c"
+  },
+  "ProductoId": 8,
+  "Nombre": "Mochila",
+  "Descripción": "Mochila de senderismo con capacidad de 40L.",
+  "Precio": 80,
+  "Categoria": {
+    "CategoriaId": 3,
+    "NombreCategoria": "Moda"
+  },
+  "Comentarios": [
+    {
+      "ComentarioId": 7,
+      "Texto": "Espaciosa y resistente",
+      "Cliente": "Roberto Castro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720e394543c9b1ecc71204d"
+  },
+  "ProductoId": 9,
+  "Nombre": "Reloj Inteligente",
+  "Descripción": "Reloj con monitor de actividad física.",
+  "Precio": 200,
+  "Categoria": {
+    "CategoriaId": 1,
+    "NombreCategoria": "Electrónica"
+  },
+  "Comentarios": [
+    {
+      "ComentarioId": 8,
+      "Texto": "Muy útil para hacer ejercicio",
+      "Cliente": "Elena Ortiz"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6720e394543c9b1ecc71204e"
+  },
+  "ProductoId": 10,
+  "Nombre": "Escritorio",
+  "Descripción": "Escritorio de madera de roble.",
+  "Precio": 300,
+  "Categoria": {
+    "CategoriaId": 2,
+    "NombreCategoria": "Hogar"
+  },
+  "Comentarios": []
+}]
